@@ -1,1 +1,2 @@
 C:\Users\MooDuckChe\source\repos\SudokuSolver\x64\Debug\SudokuSolver.exe
+C:\Users\MooDuckChe\Desktop\SudokuSolver\x64\Debug\SudokuSolver.exe
